@@ -3,5 +3,5 @@ Description: ATM (Automatic Teller Machine) – Back-end Java application
 
 Skills
 -Test Driven Development
--Opject Oriented Programming
+-Object Oriented Programming
 -User Input
